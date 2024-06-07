@@ -1840,11 +1840,18 @@
     "screenshot": "cover.png",
     "modes": ["dark", "light"]
   },
-	{
-  "name": "Allium",
-  "author": "Nullglyph",
-  "repo": "nulglyph/Allium",
-  "screenshot": "AlliumScreenshot.png",
-  "modes": ["dark", "light"]
-}
+  {
+    "name": "Allium",
+    "author": "Nullglyph",
+    "repo": "nulglyph/Allium",
+    "screenshot": "AlliumScreenshot.png",
+    "modes": ["dark", "light"]
+  },
+  {
+    "name": "Dynamic Theme",
+    "author": "Rody Davis",
+    "repo": "rodydavis/obsidian-dynamic-theme",
+    "screenshot": "screenshots/light-green.png",
+    "modes": ["dark", "light"]
+  }
 ]
